@@ -1,8 +1,12 @@
+body {
+    background-color: #00f;
+}
 p {
     color: red;
 }
 nav {
+    background-color: grey;
     color: blue;
-    button: hover;
+    button: hover; color: yellow;
     
 }
